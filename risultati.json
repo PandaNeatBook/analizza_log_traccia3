@@ -1,0 +1,30 @@
+{
+   "utenti_unici": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+   ],
+   "eventi_unici": [
+      "Aggiornato completamento attività del corso",
+      "Disiscritto utente dal corso",
+      "Eliminata valutazione",
+      "Visualizzato corso",
+      "Visualizzato modulo corso",
+      "Visualizzato report log",
+      "Visualizzato riepilogo del quiz",
+      "Visualizzato tentativo quiz"
+   ],
+   "conteggio_eventi": {
+      "Visualizzato report log": 1,
+      "Visualizzato corso": 6,
+      "Visualizzato modulo corso": 3,
+      "Disiscritto utente dal corso": 1,
+      "Eliminata valutazione": 7,
+      "Aggiornato completamento attività del corso": 2,
+      "Visualizzato riepilogo del quiz": 1,
+      "Visualizzato tentativo quiz": 1
+   }
+}
