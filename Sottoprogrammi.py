@@ -5,7 +5,6 @@ Programma che detiene tutti i sottoprogrammi essenziali al funzionamento al prog
 Autore: Dario Cudia
 Data: 15/11/2024
 """
-
 import json
 from utilities.griglia_di_liste_RO import Tabella2D_RO
 
