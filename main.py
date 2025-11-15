@@ -11,7 +11,7 @@ Data: 15/11/2024
 import json  # serve per leggere e scrivere file JSON
 
 # Importo tutte le funzioni dal modulo Sottoprogrammi
-from Sottoprogrammi import (
+from sottoprogrammi import (
     carica_log,
     estrai_utenti_unici,
     estrai_eventi_unici,
